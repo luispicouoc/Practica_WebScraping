@@ -10,6 +10,7 @@ Creación de un dataset a partir de los datos contenidos en una web utilizando t
 
 ## Ficheros
 * src/Practica1_WebScraping.ipynb : Notebook que contiene el código en Python que implementa la extracción de información de los accionistas de la compañía.
+* Practica1_WebScraping.pdf : Contiene las respuestas a las preguntas de la práctica.
 
 ## DOI
 10.5281/zenodo.4679915
