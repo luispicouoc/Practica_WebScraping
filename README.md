@@ -10,7 +10,7 @@ Creación de un dataset a partir de los datos contenidos en una web utilizando t
 
 ## Ficheros
 * src/Practica1_WebScraping.ipynb : Notebook que contiene el código en Python que implementa la extracción de información de los accionistas de la compañía.
-* src/apikey.txt : Contiene la clave del servicio API que resuelve las captchas de la web.
+* src/api_key.txt : Contiene la clave del servicio API que resuelve las captchas de la web.
 * Practica1_WebScraping.pdf : Contiene las respuestas a las preguntas de la práctica.
 
 ## DOI
